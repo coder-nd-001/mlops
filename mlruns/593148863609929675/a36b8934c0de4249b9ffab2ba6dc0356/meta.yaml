@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/593148863609929675/a36b8934c0de4249b9ffab2ba6dc0356/artifacts
+end_time: 1752925036071
+entry_point_name: ''
+experiment_id: '593148863609929675'
+lifecycle_stage: active
+run_id: a36b8934c0de4249b9ffab2ba6dc0356
+run_name: unruly-carp-884
+run_uuid: a36b8934c0de4249b9ffab2ba6dc0356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752925030287
+status: 3
+tags: []
+user_id: Nagesh
